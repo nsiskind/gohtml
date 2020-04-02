@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yosssi/gohtml"
+	"github.com/nsiskind/gohtml"
 )
 
 func main() {
@@ -82,7 +82,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yosssi/gohtml"
+	"github.com/nsiskind/gohtml"
 )
 
 func main() {
@@ -150,7 +150,7 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/yosssi/gohtml"
+	"github.com/nsiskind/gohtml"
 )
 
 func main() {
